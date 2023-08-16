@@ -5,7 +5,7 @@ public Class E(){
 
     }
     public void method2(){
-        
+        char h = '홍';
     }
     public void method3(){
         
