@@ -6,7 +6,7 @@ public Class A() {
 
     }
     public void method2(){
-        
+        char b = '최';
     }
     public void method3(){
         

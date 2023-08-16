@@ -5,7 +5,7 @@ public Class C(){
         char a = '김';
     }
     public void method2(){
-        
+        char g = '이';
     }
     public void method3(){
         
