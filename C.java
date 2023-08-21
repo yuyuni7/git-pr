@@ -5,7 +5,7 @@ public Class C(){
         char a = '김';
     }
     public void method2(){
-        char g = '이';
+       String str = "메인변경 메소드2";
     }
     public void method3(){
         

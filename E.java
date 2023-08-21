@@ -5,7 +5,7 @@ public Class E(){
         char f = '박';
     }
     public void method2(){
-        char h = '홍';
+        String str = "메인 변경 메소드2";
     }
     public void method3(){
         
